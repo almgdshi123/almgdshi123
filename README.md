@@ -54,43 +54,44 @@
 
 ## 📊 GitHub Statistics & Metrics
 
-<div align="center">
+<div align="center" style="background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   
   <!-- GitHub Stats Card -->
   <a href="https://github.com/almgdshi123">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almgdshi123&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" alt="almgdshi123's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almgdshi123&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=true" alt="almgdshi123's GitHub Stats"/>
   </a>
   
   <!-- Most Used Languages Card -->
   <a href="https://github.com/almgdshi123">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almgdshi123&layout=compact&langs_count=8&theme=merko&hide_border=true" alt="almgdshi123's Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almgdshi123&layout=compact&langs_count=8&theme=calm&hide_border=true" alt="almgdshi123's Top Languages"/>
   </a>
 
   <!-- GitHub Streak Stats -->
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=almgdshi123&theme=merko&hide_border=true" alt="almgdshi123's GitHub Streak"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=almgdshi123&theme=calm&hide_border=true" alt="almgdshi123's GitHub Streak"/>
   
   <!-- Additional Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almgdshi123&theme=merko" width="100%" alt="almgdshi123's Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almgdshi123&theme=calm" width="100%" alt="almgdshi123's Profile Details"/>
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almgdshi123&theme=merko&hide_border=true" width="100%" alt="almgdshi123's Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almgdshi123&theme=calm&hide_border=true" width="100%" alt="almgdshi123's Contribution Graph"/>
 
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=almgdshi123&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views Counter"/>
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=almgdshi123&theme=merko&no-frame=true&column=7" width="100%" alt="Trophy Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=almgdshi123&theme=calm&no-frame=true&column=7" width="100%" alt="Trophy Stats"/>
 
 </div>
 
 <!-- Additional Stats Badges -->
-<div align="center">
+<div align="center" style="background-color: #ffffff; padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   
 [![](https://img.shields.io/github/followers/almgdshi123?style=flat-square&color=blue&label=Followers)](https://github.com/almgdshi123?tab=followers)
 [![](https://img.shields.io/github/stars/almgdshi123?style=flat-square&color=yellow&label=Stars)](https://github.com/almgdshi123?tab=repositories)
 [![](https://img.shields.io/github/last-commit/almgdshi123/almgdshi123?style=flat-square&color=success&label=Last%20Commit)](https://github.com/almgdshi123/almgdshi123)
 
 </div>
+
 
 ---
 
