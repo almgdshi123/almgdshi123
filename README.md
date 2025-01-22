@@ -4,7 +4,7 @@
 ---
 
 ### 🛠️ **About Me**
-- 💻 Experienced Full Stack Web Developer with 3+ years of expertise in developing and managing complex systems.
+- 💻 Experienced Full Stack Web Developer with 4+ years of expertise in developing and managing complex systems.
 - 🎯 Focused on building secure, scalable, and efficient software solutions.
 - 🌟 Passionate about innovation, problem-solving, and delivering high-quality results.
 
