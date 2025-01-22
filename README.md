@@ -1,21 +1,32 @@
-<h1 align="center">👋 Hi, I'm AL-MQDASHI</h1>
-<h3 align="center">Full Stack Web Developer | IT Manager | Problem Solver</h3>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&random=false&width=435&lines=👋+Hi%2C+I'm+AL-MQDASHI;Full+Stack+Developer;IT+Manager;Problem+Solver)](https://git.io/typing-svg)
 
----
+<div style="background-color: #ffffff; padding: 20px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right" alt="Computer">
 
 ### 🛠️ **About Me**
 - 💻 Experienced Full Stack Web Developer with 4+ years of expertise in developing and managing complex systems.
 - 🎯 Focused on building secure, scalable, and efficient software solutions.
 - 🌟 Passionate about innovation, problem-solving, and delivering high-quality results.
+</div>
 
----
+<div style="background-color: #ffffff; padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
 
 ### 🧑‍💻 **Key Skills**
+
+<table>
+<tr>
+<td>
+
 #### **Programming & Development**
 - **Languages**: C#, JavaScript, SQL, PHP
 - **Frameworks & Tools**: ASP.NET Core, React, Angular, Ionic, Bootstrap, Laravel
 - **Database Management**: SQL Server, MySQL
 - **System Design**: RESTful APIs, Onion Architecture, Modular Development
+
+</td>
+<td>
 
 #### **DevOps & Security**
 - **Version Control**: Git, GitHub
@@ -23,67 +34,69 @@
 - **Security Tools**: CodeQL, Secure Coding Practices
 - **Cloud & Hosting**: Docker, Azure, Remote Hosting Management
 
+</td>
+</tr>
+</table>
+
 #### **Other Tools**
 - **UI/UX Development**: HTML5, CSS3, SASS
 - **CRM Systems**: ERB CRM, Custom CRM Solutions
+</div>
 
----
+<div style="background-color: #ffffff; padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
 
 ### 🚀 **Notable Projects**
-- **Health Records System**: Developed a secure and efficient platform for managing medical records with a focus on compliance and scalability.
-- **School Management Platform**: Designed and implemented a system to manage student records, schedules, and administrative tasks.
-- **Financial Data Systems**: Built solutions for data analysis, financial transactions, and customer data centralization.
-- **E-Commerce Solutions**: Developed and deployed scalable e-commerce platforms with payment integrations and user-friendly interfaces.
 
----
+| Project | Description |
+|---------|------------|
+| 🏥 **Health Records System** | Developed a secure and efficient platform for managing medical records with a focus on compliance and scalability. |
+| 🎓 **School Management Platform** | Designed and implemented a system to manage student records, schedules, and administrative tasks. |
+| 💰 **Financial Data Systems** | Built solutions for data analysis, financial transactions, and customer data centralization. |
+| 🛍️ **E-Commerce Solutions** | Developed and deployed scalable e-commerce platforms with payment integrations and user-friendly interfaces. |
+
+</div>
+
+<div style="background-color: #ffffff; padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
 
 ### 🌟 **Strengths**
-- Proven ability to design and implement enterprise-grade solutions.
-- Deep understanding of software security and performance optimization.
-- Strong collaboration and leadership skills, guiding development teams to success.
-- Committed to continuous learning and staying updated on the latest technologies.
+```javascript
+const strengths = {
+    technical: ["Enterprise Solutions", "Security Implementation", "Performance Optimization"],
+    leadership: ["Team Collaboration", "Project Management"],
+    personal: ["Continuous Learning", "Innovation"]
+};
+```
+</div>
 
----
+<div style="background-color: #ffffff; padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
 
 ### 📫 **Contact Me**
-- 📧 **Email**: [good.mm9999@gmail.com](mailto:good.mm9999@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/al-mqdashi-abdulmughni-0380791b0](https://www.linkedin.com/in/al-mqdashi-abdulmughni-0380791b0/)
-- 📞 **Phone**: [+966 56 857 6588](tel:+966568576588)
+[![Email](https://img.shields.io/badge/Email-good.mm9999%40gmail.com-1F6FEB?style=for-the-badge&logo=gmail)](mailto:good.mm9999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AL--MQDASHI-1F6FEB?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/al-mqdashi-abdulmughni-0380791b0/)
+[![Phone](https://img.shields.io/badge/Phone-%2B966_56_857_6588-1F6FEB?style=for-the-badge&logo=whatsapp)](tel:+966568576588)
 
----
+</div>
 
 ## 📊 GitHub Statistics & Metrics
-<div align="center">
 
-<!-- Container for Stats Cards -->
 <div style="background-color: #ffffff; padding: 20px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
-<!-- GitHub Stats Card -->
-<a href="https://github.com/almgdshi123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almgdshi123&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&text_color=333333&title_color=1F6FEB&icon_color=1F6FEB" alt="almgdshi123's GitHub Stats"/>
-</a>
-  
-  <!-- Most Used Languages Card -->
   <a href="https://github.com/almgdshi123">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almgdshi123&layout=compact&langs_count=8&theme=graywhite&hide_border=true&bg_color=ffffff&text_color=333333&title_color=1F6FEB" alt="almgdshi123's Top Languages"/>
   </a>
 </div>
 
-<!-- Profile Summary Card -->
 <div style="background-color: #ffffff; padding: 20px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almgdshi123&theme=github" width="100%" alt="almgdshi123's Profile Details"/>
 </div>
 
-<!-- Activity Graph -->
 <div style="background-color: #ffffff; padding: 20px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=almgdshi123&theme=minimal&hide_border=true&bg_color=ffffff&color=333333&line=1F6FEB&point=1F6FEB" width="100%" alt="almgdshi123's Contribution Graph"/>
 </div>
 
-<!-- GitHub Trophies -->
 <div style="background-color: #ffffff; padding: 20px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
   <img src="https://github-profile-trophy.vercel.app/?username=almgdshi123&theme=flat&no-frame=true&column=7&bg_color=ffffff&text_color=333333" width="100%" alt="Trophy Stats"/>
 </div>
 
-<!-- Profile Views and Stats Badges -->
 <div style="background-color: #ffffff; padding: 15px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
   <img src="https://komarev.com/ghpvc/?username=almgdshi123&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile Views"/>
   
@@ -100,9 +113,6 @@
   </div>
 </div>
 
-</div>
-
-
----
-
 <h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
+
+</div>
