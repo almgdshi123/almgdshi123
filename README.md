@@ -57,10 +57,10 @@
 
 <!-- Container for Stats Cards -->
 <div style="background-color: #ffffff; padding: 20px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/almgdshi123">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almgdshi123&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&text_color=333333&title_color=1F6FEB&icon_color=1F6FEB" alt="almgdshi123's GitHub Stats"/>
-  </a>
+<!-- GitHub Stats Card -->
+<a href="https://github.com/almgdshi123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almgdshi123&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&text_color=333333&title_color=1F6FEB&icon_color=1F6FEB" alt="almgdshi123's GitHub Stats"/>
+</a>
   
   <!-- Most Used Languages Card -->
   <a href="https://github.com/almgdshi123">
