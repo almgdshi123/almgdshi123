@@ -58,14 +58,42 @@
 
 <div style="background-color: #ffffff; padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
 
+<div align="center">
+<div style="background-color: #ffffff; padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
+
 ### 🌟 **Strengths**
-```javascript
-const strengths = {
-    technical: ["Enterprise Solutions", "Security Implementation", "Performance Optimization"],
-    leadership: ["Team Collaboration", "Project Management"],
-    personal: ["Continuous Learning", "Innovation"]
-};
-```
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="40" src="https://img.icons8.com/color/48/000000/developer--v2.png" alt="Technical"/><br/>
+      <strong>Technical</strong>
+      <ul align="left">
+        <li>Enterprise Solutions</li>
+        <li>Security Implementation</li>
+        <li>Performance Optimization</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img width="40" src="https://img.icons8.com/color/48/000000/conference-skin-type-7.png" alt="Leadership"/><br/>
+      <strong>Leadership</strong>
+      <ul align="left">
+        <li>Team Collaboration</li>
+        <li>Project Management</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img width="40" src="https://img.icons8.com/color/48/000000/light-on--v1.png" alt="Personal"/><br/>
+      <strong>Personal</strong>
+      <ul align="left">
+        <li>Continuous Learning</li>
+        <li>Innovation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
 </div>
 
 <div style="background-color: #ffffff; padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
